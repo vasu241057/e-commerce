@@ -5,8 +5,8 @@ import { Header } from "./components/Header";
 import Footer from "./components/Footer";
 import Cart from "./pages/Cart";
 import { productsData } from "./api/Api";
-import 'react-toastify/dist/ReactToastify.css';
-
+import "react-toastify/dist/ReactToastify.css";
+import { Analytics } from "@vercel/analytics/react";
 
 import {
   createBrowserRouter,
@@ -22,7 +22,7 @@ const Layout = () => {
   return (
     <div className="overflow-hidden">
       <Header />
-      <ScrollRestoration/>
+      <ScrollRestoration />
       <Outlet />
       <Footer />
     </div>
@@ -41,7 +41,7 @@ const router = createBrowserRouter([
       },
       {
         path: "/product/:id",
-        element: <ProductDetails/>,
+        element: <ProductDetails />,
       },
       {
         path: "/cart",
@@ -49,12 +49,12 @@ const router = createBrowserRouter([
       },
       {
         path: "/login",
-        element: <Login/>
+        element: <Login />,
       },
       {
         path: "/modal",
-        element: <Modal/>
-      }
+        element: <Modal />,
+      },
     ],
   },
 ]);
