@@ -38,7 +38,9 @@ Experience the power of e-Shopping firsthand: https://e-shopping35.netlify.app/
 
 ## 🛠️ Installation & Setup
 
-1. **Clone the Repository:** `git clone [https://github.com/your-github-username/your-repo-name](https://github.com/vasu241057/e-commerce)`
+1. **Clone the Repository:**
+   ```bash
+   git clone [https://github.com/vasu241057/e-commerce](https://github.com/vasu241057/e-commerce)
 2. **Install Dependencies:** `npm install` (or the appropriate package manager command)
 3. **Start the Server:** `npm run dev` (or your chosen command)
 
