@@ -1,6 +1,6 @@
 # e-Shopping: Your One-Stop E-Commerce Solution 🛒
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-e--Shopping-brightgreen)](https://e-shopping35.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-e--Shopping-brightgreen)](https://e-commerce-indol-chi.vercel.app/))
 [![GitHub stars](https://img.shields.io/github/stars/vasu241057/e-commerce.svg?style=social&label=Star)](https://github.com/vasu241057/e-commerce)
 
 e-Shopping is a complete e-commerce website designed to simplify the process of building and managing your online store. It offers a sleek, user-friendly experience for customers, allowing them to effortlessly explore products, complete purchases, and track their orders.
