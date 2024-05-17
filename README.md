@@ -15,7 +15,7 @@ e-Shopping is a complete e-commerce website designed to simplify the process of 
 
 ## 🚀 Live Demo
 
-Experience the power of e-Shopping firsthand: [https://e-shopping35.netlify.app/](https://e-commerce-indol-chi.vercel.app/)
+Experience the power of e-Shopping firsthand: [https://e-commerce-vasu.vercel.app/](https://e-commerce-vasu.vercel.app/)
 
 ## 🛠️ Technology Stack
 
